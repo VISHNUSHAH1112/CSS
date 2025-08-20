@@ -130,7 +130,6 @@ a
     width: 15%;
     margin-top: 2%;
     margin-left: 2%;
-    /* padding: 14px 7px 0; */
     display: flex;
     justify-content: space-evenly;
     float: left;
@@ -358,6 +357,7 @@ img
 {
     color: white;
 }
+
 
 
 
